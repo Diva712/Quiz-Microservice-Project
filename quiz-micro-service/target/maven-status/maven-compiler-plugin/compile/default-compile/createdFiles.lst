@@ -1,0 +1,9 @@
+com\spring\quiz\modal\QuizDTO.class
+com\spring\quiz\QuizMicroServiceApplication.class
+com\spring\quiz\controller\QuizController.class
+com\spring\quiz\modal\QuestionWrapper.class
+com\spring\quiz\service\QuizService.class
+com\spring\quiz\dao\QuizRepo.class
+com\spring\quiz\modal\Quiz.class
+com\spring\quiz\server\FeignInterface.class
+com\spring\quiz\modal\Response.class
